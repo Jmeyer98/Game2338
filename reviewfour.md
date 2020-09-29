@@ -3,7 +3,7 @@
 ## Semblance
 >Playdough and lazers.
 >
-The game can be found on Itch.io
+The game can be found on Itch.io at https://nyamakop.itch.io/semblance
 
 ### Rating
 
@@ -20,3 +20,8 @@ The earlier levels start off as a tutorial, teaching about your abilities and ho
 
 ## Final Thoughts
 
+While the concept of the game is pretty simple in design, the puzzles are what got me. I enjoyed playing it and found myself getting better the longer I played. Some of the levels do have similar way to solve a puzzle which, at first, I was annoyed by. I would reach a puzzle and instanly knew "Oh this is what you do," and would fly through it. I later found out that these were a blessing in disguise once the suppression clouds came into play. These are by far the most infuruating mechanic that was introduced. They made the most simple soulution to a puzzle obsolete forcing you to think of an alternate way to reach the goal. I didn't think a platformer could make someone rage quit till these showed up. I had to take some time to calm down and go back in with a clear mind just to get past some of these levels.
+
+However, as mad as I got it made me appriciate these more difficult levels of the game. I went from easliy solving the puzzles to actually testing different methods. It became less of a simple solve the puzzle get the reward and more of a "How can I do this in a way no one would expect." It kept the game interesting and made the reward that much more satisfying. 
+
+##
